@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=KDE/bspwm
-Comment=KDE session with the bspwm tiling window manager
-TryExec=PREFIX/bin/bspwm-kde-session
-Exec=PREFIX/bin/bspwm-kde-session
+Name=Plasma (bspwm)
+Comment=KDE Plasma session with the bspwm tiling window manager
+TryExec=PREFIX/bin/bspwm-plasma-session
+Exec=PREFIX/bin/bspwm-plasma-session
 Type=XSession
